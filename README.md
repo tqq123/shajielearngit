@@ -2,6 +2,7 @@
 第一阶段第三题
 shajie git merge
 shajie git rebase
+tqq taught shajie how to use git merge and git rebase
 ### 需求
 ![](whack-a-mole.gif)
 
